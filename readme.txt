@@ -1,0 +1,1 @@
+This project demonstrates the design and development of a smart mechatronic system that allows remote control of a ventilation opening using an ESP32 microcontroller. The system integrates sensors, a motor driver, and a web-based control interface, making it suitable for modern IoT applications in smart homes or industrial environments.
